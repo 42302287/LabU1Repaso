@@ -23,7 +23,7 @@ public class LabU1Repaso {
         // al método mostrarEstado()
         
         // TODO 14: Realiza lo mismo pero ahora para un objeto
-        // de tipo camion
+        // de tipo camion la marca será "Nissan" y 0 en velocidad
     }
     
 }
