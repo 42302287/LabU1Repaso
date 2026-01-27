@@ -10,7 +10,12 @@ package labu1repaso;
  */
 
 // TODO 7: Haz que esta clase sea una subclase de Vehiculo
-public class Auto {
+public class Auto extends Vehiculo{
+
+    public Auto(String marca, int velocidad) {
+        super(marca, velocidad);
+    }
+    
     
     // TODO 8: Define el constructor de Auto que reciba los
     // parámetros para pasárselos a la superclase. No olvides
